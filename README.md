@@ -4,7 +4,7 @@
 
 ## Example predictions
 
-<img src="https://raw.githubusercontent.com/Fruha/CaptchaRecognition/main/git_images/example_predictions.png" width="30%">
+<img src="https://raw.githubusercontent.com/Fruha/CaptchaRecognition/blob/master/git_images/example_predictions.png" width="30%">
 
 ## Installation
 
@@ -36,4 +36,4 @@ tensorboard --logdir tb_logs
 
 ## Plot (Accuracy of words)/(count dataset)
 
-<img src="https://raw.githubusercontent.com/Fruha/CaptchaRecognition/main/git_images/plot_accuracy.png" width="30%">
+<img src="https://raw.githubusercontent.com/Fruha/CaptchaRecognition/blob/master/git_images/plot_accuracy.png" width="30%">
